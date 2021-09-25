@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @AlejandroBagnat
+- 👋 Hi, My name is Alejandro, I'm from Argentina 
+- Currently working as System Technician.
 - 👀 I’m interested in becoming a software engineer.
-- 🌱 I’m currently learning react, Angular and node js. I know C#.NET, javaScript and SQL Server.
+
+**** Skills ****
+- 🌱 I’m using React, Angular and node js. I know C#.NET, javaScript and SQL Server.
+
+**** Contact ****
 - Every day I’m working with new challenges. I like to learn every day, It’s very exciting.
 - 📫 How to reach me: ale2029@gmail.com.
 
